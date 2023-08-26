@@ -7,6 +7,7 @@ páginas 7-20
 * Equipes detinham informações e não compartilhavam.
 * Vidas em risco por falta de sistemas inadequados.
 * Orçamentos gigantes com projetos cancelados.
+* Sistema do FBI: Sentinel.
 * Pessoas trabalhando da maneira errada.
 * Críticas ao método cascata.
 * Fazendo gambiarras para não fugir do orçamento.
@@ -30,7 +31,6 @@ páginas 7-20
 
 ### Consertando o FBI
 
-* Sistema do FBI: Sentinel.
 * “Planejar é útil. Seguir cegamente os planos é burrice”.
 > o que agregará mais valor para o projeto? .
 “ Pessoas em vez de processos; produtos que realmente funcionem em vez de documentação dizendo como o produto deveria funcionar; trabalhar com os clientes em vez de negociar com eles; e responder às mudanças em vez de seguir um plano”.

@@ -68,12 +68,17 @@ páginas 116-134
 
 ### Risco
 
-* 132
+* Risco de mercado, técnico e financeiro.
+* As pessoas não sabem o que querem até testar. Falhar rapidamente, entregar rápido.
+* Construir protótipos funcionais e testar para ver qual atende a expectativa.
+* “nós vamos conseguir ganhar dinheiro fazendo isso?”
 
 ----
 
 ### Aqui está o que você vai fazer amanhã
 
-* 
+* O primeiro passo é apenas organizar uma lista de Pendências e uma equipe. 
+* O motivo para fazer esse tipo de planejamento é criar uma transparência na organização.
+* Conseguir gerar pendências suficientes para dar continuidade ao trabalho.
+* O mais importante, porém, é começar. Apenas comece.
 
-“”
