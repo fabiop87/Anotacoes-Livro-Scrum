@@ -3,15 +3,15 @@ páginas 33-49
 
 * Trabalhar bem em equipe > desempenho individual.
 > Exemplo de futebol americano em que os jogadores sabem o que fazer sem precisar pensar muito.
-* Transcedência, autonomia, interfuncionalidade.
-* 
+* Transcendência, autonomia, interfuncionalidade.
 
 ----
 
 ### A longa fileira cinza
-> Parte do exército
+> Parte do exército, Comandante MacArthur.
 * Apontar os erros a fim de fazer melhorias ao invés de culpar alguém.
 * Todos precisam mudar quando necessário, até o 'comandante'.
+* Melhorar até atingir o nível de transcendência.
 
 ----
 
@@ -69,4 +69,4 @@ páginas 33-49
 
 * Sincronia, liberdade, autonomia.
 > Exemplo futebol: o jogador sabe o que fazer mesmo sem olhar para seus colegas. Sincronia
-
+* O Scrum é sobre estabelecer o sistema certo com os devidos incentivos e dar às pessoas liberdade, respeito e autoridade para fazerem as coisas por si mesmas.
