@@ -45,7 +45,7 @@ páginas 59-75 (8)
 
 * Os objetivos que são desafiadores estimulam a equipe; objetivos impossíveis são apenas desanimadores.
 *  Qualquer pessoa capaz de causar caos emocional, inspirar medo ou horror, ou que humilhe e diminua as pessoas, precisa ser detida.
-
+* Falta de lógica, Expectativas exageradas, sobrecarga(coisas desnecessárias)
 ----
 
 ### Fluxo
